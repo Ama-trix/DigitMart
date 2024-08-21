@@ -1,0 +1,67 @@
+
+   .navbar-custom {
+            background-color: #f4f4f4;
+        }
+
+        .navbar a {
+            color: #0e0c0c;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-size: 17px;
+            margin: 0 10px;
+        }
+
+        .navbar a:hover {
+            background-color: #fff;
+            color: #2e87ec;
+        }
+
+        .custom-carousel-height {
+            height: 550px;
+            overflow: hidden;
+        }
+
+        .custom-carousel-height .carousel-inner {
+            height: 100%;
+        }
+
+        .custom-carousel-height .carousel-item img {
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .section-header {
+            margin: 40px 0 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .card:hover {
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            transform: translateY(-5px);
+            transition: 0.3s;
+        }
+
+        .accessory-section {
+            background-color: #f8f9fa;
+            border-radius: 1rem;
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px 0;
+            margin-top: 40px;
+        }
+
+        .heading-background {
+            background-color: #ffffff;
+            color: rgb(114, 112, 112);
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+        }
