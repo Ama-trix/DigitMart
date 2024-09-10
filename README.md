@@ -15,6 +15,7 @@ Download resources:
  3. MySQL ->https://dev.mysql.com/downloads/installer/
 
 <h2>You can check out the UI in the video provided In the followed google drive link</h2>
+https://drive.google.com/file/d/1jAQ5XzOOfyAHh3pSRKrwzpSK9U26uC-r/view?usp=sharing
 
 There is a com.net.Model Package inside java/main folder, inside it there is a DAO file. To know business logic prefer this.
 
