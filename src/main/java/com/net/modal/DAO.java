@@ -14,7 +14,7 @@ public class DAO {
 	private Connection c;
 	public DAO() throws SQLException, ClassNotFoundException {
 		Class.forName("com.mysql.cj.jdbc.Driver");
-		c=DriverManager.getConnection("jdbc:mysql://localhost:3306/digitmart","root","happylife@17");
+		c=DriverManager.getConnection("jdbc:mysql://localhost:3306/digitmart","root","passOfYourDatabase");
 	}
 	public void closeConnection() throws SQLException{
 		c.close();
