@@ -19,6 +19,8 @@ There is a com.net.Model Package inside java/main folder, inside it there is a D
 
 Here are the database tables.
 
+<h1>You can check out the UI in the video provided with the code</h1>
+
 
 
 Products Table
