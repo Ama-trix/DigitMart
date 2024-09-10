@@ -14,8 +14,11 @@ Download resources:
  2. Apache tomcat 9.0 ->https://tomcat.apache.org/download-90.cgi
  3. MySQL ->https://dev.mysql.com/downloads/installer/
 
-<h2>You can check out the UI in the video provided In the followed google drive link</h2>
+<h2>You can check out the UI in the video provided In the following google drive link</h2>
 https://drive.google.com/file/d/1jAQ5XzOOfyAHh3pSRKrwzpSK9U26uC-r/view?usp=sharing
+<h3>If you want the complete college project report and the presentation here is the link </h3>
+Presentation: https://docs.google.com/presentation/d/1lJf_9QY7v1acMZQ3WQc93BCGs-LAUSv-/edit?usp=drive_link&ouid=117939737257870725405&rtpof=true&sd=true
+Report: https://docs.google.com/document/d/1ZnX9ZuSQyhAFQSbVbfJm2MxeeNhCT-3Q/edit?usp=sharing&ouid=109149341775706864941&rtpof=true&sd=true
 
 There is a com.net.Model Package inside java/main folder, inside it there is a DAO file. To know business logic prefer this.
 
