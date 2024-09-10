@@ -14,12 +14,12 @@ Download resources:
  2. Apache tomcat 9.0 ->https://tomcat.apache.org/download-90.cgi
  3. MySQL ->https://dev.mysql.com/downloads/installer/
 
+<h2>You can check out the UI in the video provided In the followed google drive link</h2>
 
 There is a com.net.Model Package inside java/main folder, inside it there is a DAO file. To know business logic prefer this.
 
 Here are the database tables.
 
-<h1>You can check out the UI in the video provided with the code</h1>
 
 
 
